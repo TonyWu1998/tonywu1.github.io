@@ -47,14 +47,8 @@
     border-bottom-left-radius: 4px;
     -webkit-box-shadow: rgb(169, 169, 169) 0px 3px 3px 0px;
     box-shadow: rgb(169, 169, 169) 0px 3px 3px 0px;
-    border-top-style: none;
-    border-right-style: none;
-    border-bottom-style: none;
-    border-left-style: none;
-    border-top-width: thin;
-    border-right-width: thin;
-    border-bottom-width: thin;
-    border-left-width: thin;
+    border-style: none;
+    border-width: thin;
 }
 
 #box {
@@ -281,14 +275,8 @@
     border-bottom-left-radius: 4px;
     -webkit-box-shadow: rgb(169, 169, 169) 0px 3px 3px 0px;
     box-shadow: rgb(169, 169, 169) 0px 3px 3px 0px;
-    border-top-style: none;
-    border-right-style: none;
-    border-bottom-style: none;
-    border-left-style: none;
-    border-top-width: thin;
-    border-right-width: thin;
-    border-bottom-width: thin;
-    border-left-width: thin;
+    border-style: none;
+    border-width: thin;
     display: block;
     background-color: rgb(255, 255, 255);
 }
@@ -337,14 +325,8 @@
     border-bottom-left-radius: 4px;
     -webkit-box-shadow: rgb(169, 169, 169) 0px 3px 3px 0px;
     box-shadow: rgb(169, 169, 169) 0px 3px 3px 0px;
-    border-top-style: none;
-    border-right-style: none;
-    border-bottom-style: none;
-    border-left-style: none;
-    border-top-width: thin;
-    border-right-width: thin;
-    border-bottom-width: thin;
-    border-left-width: thin;
+    border-style: none;
+    border-width: thin;
     display: block;
     background-color: rgb(255, 255, 255);
 }
@@ -484,14 +466,8 @@
     border-bottom-left-radius: 4px;
     -webkit-box-shadow: rgb(169, 169, 169) 0px 3px 3px 0px;
     box-shadow: rgb(169, 169, 169) 0px 3px 3px 0px;
-    border-top-style: none;
-    border-right-style: none;
-    border-bottom-style: none;
-    border-left-style: none;
-    border-top-width: thin;
-    border-right-width: thin;
-    border-bottom-width: thin;
-    border-left-width: thin;
+    border-style: none;
+    border-width: thin;
     display: block;
     background-color: rgb(255, 255, 255);
 }
@@ -540,14 +516,8 @@
     border-bottom-left-radius: 4px;
     -webkit-box-shadow: rgb(169, 169, 169) 0px 3px 3px 0px;
     box-shadow: rgb(169, 169, 169) 0px 3px 3px 0px;
-    border-top-style: none;
-    border-right-style: none;
-    border-bottom-style: none;
-    border-left-style: none;
-    border-top-width: thin;
-    border-right-width: thin;
-    border-bottom-width: thin;
-    border-left-width: thin;
+    border-style: none;
+    border-width: thin;
     display: block;
     background-color: rgb(255, 255, 255);
 }
